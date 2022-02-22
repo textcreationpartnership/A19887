@@ -1,0 +1,606 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A royall edict for military exercises published in a sermon preached to the captaines, and gentlemen that exercise armes in the artillery garden at their generall meeting. In Saint Andrewes vndershaft, in London, Iune 23. 1629. By Iohn Dauenporte, B. of Diuinity, and P. of Saint Stephans in Cole-man-street in London.</title>
+            <author>Davenport, John, 1597-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1629</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19887</idno>
+            <idno type="STC">STC 6313</idno>
+            <idno type="STC">ESTC S118437</idno>
+            <idno type="EEBO-CITATION">99853644</idno>
+            <idno type="PROQUEST">99853644</idno>
+            <idno type="VID">19037</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19037)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1200:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A royall edict for military exercises published in a sermon preached to the captaines, and gentlemen that exercise armes in the artillery garden at their generall meeting. In Saint Andrewes vndershaft, in London, Iune 23. 1629. By Iohn Dauenporte, B. of Diuinity, and P. of Saint Stephans in Cole-man-street in London.</title>
+                  <author>Davenport, John, 1597-1670.</author>
+               </titleStmt>
+               <extent>[8], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Elizabeth Allde for Ralph Mab, and are to be sold by Nicholas Bourne, at the south entrance of the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1629.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19037:1"/>
+            <pb facs="tcp:19037:1" rendition="simple:additions"/>
+            <p>A ROYALL EDICT FOR MILITARY EXERCISES: Publiſhed in a Sermon preached to the <hi>Captaines,</hi> and <hi>Gentlemen</hi> that exerciſe Armes in the <hi>Artillery Garden</hi> at their generall meeting.</p>
+            <p>In <hi>Saint Andrewes Vnderſhaft,</hi> in <hi>London,</hi> Iune 23. 1629.</p>
+            <p>By IOHN DAVENPORTE, B. of Diuinity, and P. of <hi>Saint Stephans</hi> in <hi>Cole-man-ſtreet</hi> in <hi>London.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ISA. 49.23.</hi>
+               </bibl>
+               <p>Kings ſhall be thy nurſing Fathers, and Queenes thy Nurſes.</p>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed by ELIZABETH ALLDE for RALPH MAB, and are to be ſold by NICHOLAS BOVRNE, at the South entrance of the Royall Exchange. 1629.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:19037:2"/>
+            <pb facs="tcp:19037:2"/>
+            <head>To The Right worſhipfull S<hi rend="sup">t</hi>. <hi>Hugh Hammerſly</hi> Knight, Iuſtice of Peace, and Alderman, and one of the Colonels of the Citty of <hi>London,</hi> and Preſident of the Martiall Company exerciſing Armes, in the Artillery Garden: AND To all the reſt of the famous Society, Captaines, Aſſiſtants, and Gentlemen, profeſſing, and exerciſing Armes.</head>
+            <opener>
+               <salute>Worthy Preſident, Captaines, and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He ſame Perſons, and the ſame Argument, that indu<g ref="char:EOLhyphen"/>ced me to preach this Sermon in your eares, haue preuai<g ref="char:EOLhyphen"/>led with me to preſent it, in this manner to your eyes; not to ſubmit it to your iudgements,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Iames 3.1. cap. 4.11.</note> as our <hi>maſterly-cen<g ref="char:EOLhyphen"/>ſorious</hi> hearers expect, who <hi>make them<g ref="char:EOLhyphen"/>ſelues
+<pb facs="tcp:19037:3"/> Iudges</hi> of that, which ſhould teach them to <hi>iudge themſelues,</hi> and ſhall one day <hi>iudge them:</hi>
+               <note place="margin">1. Cor. 11.31. Rom. 2.16. Heb. 4.12. Iude 11. Pſal. 91.4. 2. Theſ. 2 10.</note> nor to craue your pa<g ref="char:EOLhyphen"/>tronage or protection of it: for it is <hi>the Word of God, mighty in operation, and ſharper then a two edged ſword,</hi> to cut off all that <hi>gainſay it,</hi> and ſo, able to defend it ſelfe; yea, it is the <hi>truth</hi> of God, <hi>a ſhield and Buckler</hi> to thoſe that <hi>receiue the loue of it,</hi> and ſo, able to de<g ref="char:EOLhyphen"/>fend them. For my ſelfe; who am I, that I ſhould hope to be exempted from the common condition of <hi>Preachers</hi> and <hi>Writers,</hi>
+               <note place="margin">Ier. 18.18.</note> that is, to <hi>bee ſmitten with the tongues</hi> of thoſe, who ac<g ref="char:EOLhyphen"/>count nothing worthy acceptance, but the fruite of their owne braine? There are principally, three ſorts of men,<note place="margin">Luke 22.50.</note> that (like <hi>Malchus,</hi> hauing <hi>his right eare cut off</hi>) heare all things ſiniſterly. Firſt, Ambitious perſons. Se<g ref="char:EOLhyphen"/>condly,<note place="margin">3. ſorts of perſons iniu<g ref="char:EOLhyphen"/>rious in their cenſur s of Preache s &amp; Sermons.</note> Malicious perſons. Thirdly, Vi<g ref="char:EOLhyphen"/>cious perſons: if this Sermon come into any of theſe perſons hands, I muſt
+<pb facs="tcp:19037:3"/> expect, that (as men looking vpon any thing through a coloured glaſſe, iudge that thing to be of the ſame colour with the glaſſe, through which they looke ſo) their opinions of the <hi>Preacher,</hi> and of the <hi>Sermon,</hi> will be conformed to the in<g ref="char:EOLhyphen"/>ward <hi>diſtemper</hi> of their owne hearts. Firſt,<note place="margin">Maleuoli, velut Momi aruedut nos magis ani<g ref="char:EOLhyphen"/>mi morbo, qua<g ref="char:cmbAbbrStroke">̄</g> iudicio. Me<g ref="char:EOLhyphen"/>lanth. Gul. Epiſ. Hauſmano. <hi>4<hi rend="sup">to</hi>. 1. Ambitious perſons.</hi> Nihil eſt quod Eccleſiam ita diuellere qucat at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ambitio dominandi. Chryſt. Hom <hi>11.</hi> in cap. <hi>4.</hi> ad Eph. <hi>3.</hi> Ioh. <hi>9. Iames 4.6.</hi>
+               </note> 
+               <hi>the Ambitious</hi> perſon ſeekes to raiſe himſelfe in the fall, and to ho<g ref="char:EOLhyphen"/>nour himſelfe in the diſgrace of thoſe who ſeeme to outſhine him in true worth. Thus <hi>Corah,</hi> out of a deſire of eſteeme, reſiſted <hi>Moſes; Diotrephes,</hi> out of a <hi>Loue</hi> of <hi>Preeminence,</hi> withſtood <hi>Iohn the Diuine;</hi> and thoſe <hi>falſe Apo<g ref="char:EOLhyphen"/>ſtles,</hi> that they might exault themſelues, vilified, and traduced Saint <hi>Paul.</hi> Thoſe wee haue more cauſe to pitty (becauſe <hi>God reſiſteth them</hi>) and to pray for them, that God would make them more humble, and lowly-minded, then to bee diſquieted at their inſolencies, which is a ſure ſigne of their folly, and
+<pb facs="tcp:19037:4"/> emptineſſe. For wee ſee, the boughs, the more laden with fruite, they are the more lowly, but in a fanne, we ſee, the chaffe is aboue the Corne, not be<g ref="char:EOLhyphen"/>cauſe its better, but becauſe its lighter. Secondly,<note place="margin">2. Malicious perſons.</note> the <hi>Malicious</hi> perſon, out of an inward hatred againſt the perſon of another, miſiudgeth all his actions and intentions. This you may ſee in the carriage of the Prieſts and Prophets againſt <hi>Ieremy,</hi>
+               <note place="margin">Ier 26.11. Amos 7.10.</note> of <hi>Amaziah</hi> againſt <hi>Amos,</hi> and of thoſe <hi>cruell,</hi> and <hi>ſcorne<g ref="char:EOLhyphen"/>full men,</hi> concerning whom the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſay</hi> ſpeaketh, that would <hi>make a man an offendour for a word.</hi>
+               <note place="margin">Iſa. 29.21.</note> For theſe my prayer is, that the Lord would deſtroy the workes of Satan, that enui<g ref="char:EOLhyphen"/>ous man in their hearts, and fill them with the fruites of the ſpirit, eſpecially, <hi>loue,</hi>
+               <note place="margin">Gal. 5.22. 3. Vicious perſons. Iſa. 5.29.</note> 
+               <hi>peace, gentleneſſe, goodneſſe, faith.</hi> Thirdly, <hi>Vicious</hi> perſons, <hi>ſpeake good of euill, and euill of good, theſe put darkeneſſe for light, and light for
+<pb facs="tcp:19037:4"/> darkeneſſe, theſe put bitter for ſweet, and ſweet for ſowre. Dauid</hi> out of much experience of ſuch, ſayth, <hi>They are licentious, and ſpeake wickedly: they talke preſumptuouſly: they ſet their mouth againſt Heauen,</hi>
+               <note place="margin">
+                  <hi>Pſal. 73.8, 9.</hi> Male de me lo<g ref="char:EOLhyphen"/>qu<g ref="char:cmbAbbrStroke">̄</g>tur, ſed ma<g ref="char:EOLhyphen"/>li. Mouerer, ſi de me <hi>M. Cato.</hi> Si Lelius ſapie<g ref="char:cmbAbbrStroke">̄</g>s, ſi duo Sci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iones iſta loqueren<g ref="char:EOLhyphen"/>tur, nunc malis diſplicere, lau<g ref="char:EOLhyphen"/>dari eſt. Soen. de rem. fort.</note> 
+               <hi>and their tongue walketh thorow the earth.</hi> To be diſprayſed of ſuch, is a prayſe; as when an Enemy reuiles a Generall, or Captaine, or common Souldier for his faithfulnes to his King, and Coun<g ref="char:EOLhyphen"/>try: But J muſt not make a Booke of an Epiſtle.</p>
+            <p>To you (right worthy Cittizens) with all due reſpect, I dedicate theſe Meditations, ſuch as they are, as belonging to you by right. For your ſakes they were preached; at your requeſt, they are now publiſhed. If heerein you ſhall finde any mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iues to encourage you, any rules to direct you in this laudable Exerciſe, let God haue the Glory, and J am
+<pb facs="tcp:19037:5"/> abundantly ſatisfied, whom nothing could haue drawne to this taske, but my vnfeigned loue to your perſons, and my hearty deſire of your incouragement in ſo worthy deſignes.</p>
+            <closer>
+               <signed>Yours in all Chriſtian duties and ſeruices, <hi>J. D.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:19037:5"/>
+            <head>A ROYALL EDICT FOR MILITARY EXERCISES.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2. SAM. 1.18.</hi>
+                  </bibl>
+                  <p>Alſo hee bade them teach the children of <hi>Iudah</hi> the vſe of the Bow. Behold it is written in the Booke of <hi>Iaſher.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He occaſion of theſe words (as you may ſee in the laſt Chapter of the former Booke) was the death of <hi>Saul</hi> and <hi>Ionathan,</hi>
+               <note place="margin">1. Sam. 31.</note> with the flight, and diſcomfiture of <hi>Iſrael,</hi> before the <hi>Philiſtims,</hi> reported to <hi>Dauid</hi> by a man, who (in the former part of this Chapter) recei<g ref="char:EOLhyphen"/>ued condigne puniſhment,<note place="margin">2. Sam. 1.2. to 16.</note> for that which he pre<g ref="char:EOLhyphen"/>tended to haue done. From the 17. verſe to the end of this Chapter,<note place="margin">Verſe. 17. <hi>ad finem.</hi>
+               </note> you haue <hi>Dauids</hi> lamentation for <hi>Saul,</hi> and <hi>Ionathan,</hi> and the ſtate of <hi>Iſrael,</hi> which, as it reſpected <hi>Saul,</hi> was aſorrow ariſing from the ſence of humane calamities, and char<g ref="char:EOLhyphen"/>ges,
+<pb n="2" facs="tcp:19037:6"/> whereunto euen the greateſt <hi>Princes</hi> are ſub<g ref="char:EOLhyphen"/>iect: as it reſpected <hi>Ionathan,</hi> it aroſe from his deare loue to ſo true a friend; as it reſpected the ſtate of <hi>Iſrael,</hi> it aroſe from the apprehenſion of Gods diſ<g ref="char:EOLhyphen"/>honour, in the triumphs of the <hi>Philiſtims,</hi> and ſeemes to anſwer that mournfull expreſſion of <hi>Io<g ref="char:EOLhyphen"/>ſhua,</hi>
+               <note place="margin">Ioſh. 7.8.</note> 
+               <hi>Oh Lord, what ſhall I ſay, when Iſrael turne their backes before their enemies?</hi> yet hee is not ſo <hi>ſwallow<g ref="char:EOLhyphen"/>ed vp with too much griefe,</hi>
+               <note place="margin">2. Cor. 2.7.</note> that he forgets the care of his people, which you may ſee implyed in the copulatiue particle, <hi>Alſo.</hi>
+            </p>
+            <p>
+               <hi>Alſo]</hi> God hath planted more affections then one in the ſoule of man: as there is <hi>griefe,</hi> to hum<g ref="char:EOLhyphen"/>ble vs, ſo there is <hi>feare</hi> to quicken vs. <hi>Dauid</hi> knowes how to mourne for euils paſt, ſo, as to take a courſe for preuention of the like for time to come: not to be afflicted after ſuch a loſſe in <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> had beene Stoicall apathy; to haue beene ſo afflicted for the loſſe of <hi>Saul</hi> and <hi>Ionathan,</hi> as to neglect the peoples good, had beene baſe puſil<g ref="char:EOLhyphen"/>lanimity: Therefore <hi>Dauid</hi> at once actes diuers parts, of a good ſubiect, and patriot, in lamen<g ref="char:EOLhyphen"/>ting the loſſe of his King and Country, and of a gracious Soueraigne, in prouiding for the ſafety of his ſubiects. For as he mourned, with this la<g ref="char:EOLhyphen"/>mentation, ouer <hi>Saul,</hi> and ouer <hi>Ionathan</hi> his ſon, So <hi>alſo he bade them, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>He bade them]</hi> Not by way of <hi>Counſaile</hi> only, but by way of <hi>Command</hi> alſo. So that theſe words ſeeme to containe an <hi>Edict,</hi> or a <hi>law</hi> of <hi>Dauid,</hi> inioy<g ref="char:EOLhyphen"/>ning the people <hi>the vſe of the Bow.</hi>
+               <note place="margin">Hiſtory of the world. 2. booke 4. c. 15. Sex. 244. p.</note> For (not to trou<g ref="char:EOLhyphen"/>ble you with the difference obſerued by ſome, be<g ref="char:EOLhyphen"/>twixt a <hi>Law,</hi> and an <hi>Edict</hi>) you may obſerue in theſe words, all thoſe things, which are required in a Law. 1. It muſt haue a right end, which is
+<pb n="3" facs="tcp:19037:6"/> the Common-good: ſo had this:<note place="margin">Lex eſt quae dam rationis ordinatio ad bonu commune, ab eo qui curam co<g ref="char:cmbAbbrStroke">̄</g>munitatis ha<g ref="char:EOLhyphen"/>bet, promu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ga<g ref="char:EOLhyphen"/>ta. <hi>T. Aq. 12. q. 90. Art 4. Conc.</hi>
+               </note> for this exerciſe conduced much to the common peace, and ſafety. 2. Right meanes, to attaine that end warranted by reaſon: ſo had this. For the people might be co<g ref="char:cmbAbbrStroke">̄</g>uin<g ref="char:EOLhyphen"/>ced of the equitie of this injunction, by reaſoning from naturall principles, thus: That which tends to the Common peace and ſafetie, muſt be practi<g ref="char:EOLhyphen"/>ſed by all: but the <hi>vſe of the Bow</hi> tends to the Common peace, and ſafety: <hi>Ergo. The vſe of the Bow</hi> muſt be practiſed by all. 3. A right of authoritie in him, who impoſeth it: ſo had this. For <hi>Dauid,</hi> whoſe command this was, was before this time, by a ſpeciall command from <hi>God,</hi>
+               <note place="margin">1. Sam. 16.12, 13.</note> 
+               <hi>anointed to bee their King.</hi> 4. It muſt be enacted, and publiſhed: ſo was this: for he not only <hi>bade them,</hi> but it is re<g ref="char:EOLhyphen"/>corded <hi>in the Booke of Iaſher.</hi>
+            </p>
+            <p>
+               <hi>Teach]</hi> Or inſtruct, which is done by rules, exerciſe, and examples, as the manner is in your military Schoole, The <hi>Artillery Garden.</hi>
+            </p>
+            <p>
+               <hi>The Children of Iudah]</hi> Its an Hebraiſme ſigni<g ref="char:EOLhyphen"/>fying that Tribe,<note place="margin">2. Sam. 2.4.</note> ouer which <hi>Dauid</hi> was anoin<g ref="char:EOLhyphen"/>ted King, in Hebron, called ſo from <hi>Iudah,</hi> the fourth ſonne of <hi>Iacob,</hi> who was the roote,<note place="margin">Gen 29.35.</note> and fa<g ref="char:EOLhyphen"/>ther of that Tribe. By the <hi>Children</hi>] are meant all the people of that Tribe, without exception of age, or condition. 1. Without exception of age;<note place="margin">Numb. 1.20.</note> 
+               <hi>after</hi> 20. or ſooner, it may be (for, at that age) <hi>they went forth to warre:</hi> and other Nations, as for inſtance,<note place="margin">Corn. Tacit. lib. 5. cap. 7.</note> the <hi>Germaines,</hi> were wont to traine vp their ſonnes (euen from 14. yeeres old, till they grewe by age, or weakeneſſe, vnfit for ſeruice. 2. Without excep<g ref="char:EOLhyphen"/>tion of condition; <hi>Saul</hi> the King, <hi>Ionathan</hi> the Prince, <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> a Noble man; all ſorts went to war, as in <hi>Rome,</hi> none were excuſed from ſeruice, when <hi>Hannibal</hi> was at the gate.</p>
+            <pb n="4" facs="tcp:19037:7"/>
+            <p>
+               <hi>The vſe of the Bow]</hi> By a <hi>Synechdoche,</hi> the <hi>Bow</hi> is mentioned. <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. Becauſe it was much in vſe amo<g ref="char:cmbAbbrStroke">̄</g>gſt the <hi>Iſraelites.</hi>
+               <note place="margin">Pſal. 78.9.</note> Therefore, <hi>the Children of Ephraim</hi> are deſcribed, <hi>Armed, and ſhooting with the Bow.</hi>
+            </p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Becauſe the enemy was expert in it, and had annoied them much with that weapon. Hence the <hi>Parthyans</hi> are deſcribed by <hi>drawing the Bowe,</hi> and the <hi>Lidians,</hi>
+               <note place="margin">Eſa. 66.19. Ier. 46.9.</note> by <hi>handling and bending the Bow,</hi> and its ſaid of <hi>Saul</hi> now ſlaine by the <hi>Philiſtims,</hi> that <hi>the Archers and Bow-men hit him, &amp; he was ſore woun<g ref="char:EOLhyphen"/>ded of the Archers.</hi>
+               <note place="margin">1. Sam. 31.3.</note>
+            </p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. Becauſe it was accounted moſt ſeruiceable, and vſefull in warre:<note place="margin">Zach. 10 4. Ier. 51.3.</note> therefore its called <hi>The Bow of battaile,</hi> and the <hi>bender that bendeth the Bow,</hi> is the Periphraſis of a Souldier. About the vſeful<g ref="char:EOLhyphen"/>neſſe of this weapon, about thoſe Muskets, and Caliuers,<note place="margin">S.I.S his diſ<g ref="char:EOLhyphen"/>courſes with the preface thereunto.</note> now in vſe, it becomes not me to diſ<g ref="char:EOLhyphen"/>pute, others haue handled this Argument largely, to whoſe diſcourſes I referre you.</p>
+            <p>
+               <hi>Beholde, it is written in the Booke of Iaſher]</hi> What Booke this was is queſtioned.<note place="margin">3. opin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut the booke of <hi>Ia<g ref="char:EOLhyphen"/>ſher.</hi>
+               </note> The word <hi>Iaſher</hi> ſi<g ref="char:EOLhyphen"/>gnifieth <hi>iuſt.</hi> Some by this vnderſtand the <hi>Penta<g ref="char:EOLhyphen"/>teuch,</hi> which, ſay they, is called the Booke of the juſt, <milestone type="tcpmilestone" unit="unspecified" n="1"/> either becauſe it was penned by <hi>Moſes,</hi> that juſt man, or becauſe it treateth about juſt things.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. Others thinke that only the Booke of <hi>Gene<g ref="char:EOLhyphen"/>ſis</hi> is meant, and that <hi>Dauid</hi> intended to incourage them to thoſe Martiall exerciſes, by what they find recorded in that Booke, concerning the Tribe of <hi>Iudah,</hi> that, <hi>The Scepter ſhould not depart from him, nor a Law-giuer from betweene his feet,</hi>
+               <note place="margin">Gen. 49.10.</note> 
+               <hi>vntill Silo come.</hi>
+            </p>
+            <p n="3">
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. But to me, their opinion ſeemes more pro<g ref="char:EOLhyphen"/>bable,<note place="margin">Pet. Mart. in locum.</note> who thinke it to be ſome Hiſtory, contai<g ref="char:EOLhyphen"/>ning, after the manner of Annales, or Chronicles, the moſt remarkable paſſages in the State of <hi>Iſ<g ref="char:EOLhyphen"/>rael:</hi>
+               <pb n="3" facs="tcp:19037:7"/> becauſe this Booke is mentioned as the <hi>Regi<g ref="char:EOLhyphen"/>ſter,</hi> wherein that famous ſucceſſe of the <hi>Sunnes ſtanding ſtill</hi> at <hi>Ioſuahs</hi> prayer,<note place="margin">Ioſh. 10.12, 13.</note> 
+               <hi>for the ſpace of a whole day,</hi> is recorded, whereof no mention is made in any of the fiue Bookes of <hi>Moſes:</hi> yet this no whit aduantageth the Papiſts, who would from hence, and ſuch like places, proue the de<g ref="char:EOLhyphen"/>fect of the <hi>Canonicall</hi> Books of the Old Teſtament. For (not to inſiſt vpon the ambiguity of the word here vſed, which ſignifieth any diſcourſe about a thing, as well as a Booke) what if we grant,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> it was a written Booke? muſt it neceſſarily follow, that this Booke was <hi>Canonicall?</hi> Its true, that ſome aſcribe it to <hi>Nathan,</hi> and <hi>Gad,</hi>
+               <note place="margin">Gen. 5.1. Nehem. 7.5. Mat. 1.1.</note> who were Pro<g ref="char:EOLhyphen"/>phets: yet all things which the Prophets wrote, were not written by them as Prophets. It cannot be denyed that the Prophets were <hi>Gods</hi> publicke Notaries:<note place="margin">Alia, ſicut ho<g ref="char:EOLhyphen"/>m nes, hiſtoricâ diligent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a; alia, ſicut Prophetae i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſp ratione di<g ref="char:EOLhyphen"/>uinâ ſcripſeru<g ref="char:cmbAbbrStroke">̄</g>t, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> haec ita <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<g ref="char:EOLhyphen"/>er<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt diſtincta, vt illa, tanqua<g ref="char:cmbAbbrStroke">̄</g> ipſis, iſta vero tanquam Deo<g ref="char:EOLhyphen"/>per i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſos loque<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ti iudicarentur eſſe tribuenda: ac ſic illa perti<g ref="char:EOLunhyphen"/>nerent ad vber<g ref="char:EOLhyphen"/>tatem co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nitio<g ref="char:EOLhyphen"/>nis haec ad reli<g ref="char:EOLhyphen"/>gionis authori<g ref="char:EOLhyphen"/>tatem. Aug de Ciuit. Dei. li. <hi>18.</hi> ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>38.</hi>
+               </note> yet all the writings of a Notary are not authenticall, vnleſſe he doe them as a Notary. <hi>Da<g ref="char:EOLhyphen"/>uid</hi> the Prophet wrote a letter to <hi>Ioab,</hi> concerning <hi>
+                  <g ref="char:V">Ʋ</g>riah:</hi> yet that was not penned by him as a Pro<g ref="char:EOLhyphen"/>phet.</p>
+            <p>The Prophets wrote ſome things as Prophets, other things as Hiſtorians. Theſe ſerue to increaſe our knowledge; thoſe to increaſe our faith. Thus we haue opened and cleared the ſence of the words. In them you may obſerue two things:</p>
+            <p>Firſt, an <hi>Act</hi> or <hi>Edict</hi> of <hi>Dauid,</hi> for the training vp of <hi>the Children of Iudah</hi> in Martiall exerciſes: <hi>He bade them teach the Children of Iudah the vſe of the Bow.</hi>
+            </p>
+            <p>Secondly, a <hi>Record;</hi> or <hi>Regiſter</hi> of that Act. <hi>Be<g ref="char:EOLhyphen"/>hold, it is written in the Booke of Iaſher.</hi> Out of the words thus opened, the concluſion which natu<g ref="char:EOLhyphen"/>rally offreth it ſelfe, is this, that,</p>
+            <pb n="6" facs="tcp:19037:8"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> It is a care well beſeeming Kings, to prouide that their ſubiects be inſtructed, and trained vp in Military exerciſes.</p>
+            <p>The Scriptures fully cleare this in examples: of <hi>Abraham,</hi>
+               <note place="margin">Gen. 14.14.</note> hauing at leaſt 318. men in his houſe, fitted for warre vpon a ſhort warning: of <hi>Moſes, inſtructing the people how to camp by their ſtandards,</hi>
+               <note place="margin">Num. 2.2, 3.</note> 
+               <hi>and vnder the Enſignes of their fathers houſe:</hi> of <hi>Ioſhua,</hi> and the <hi>Iudges,</hi>
+               <note place="margin">1. Chro. 12.1, 2.</note> vnder whom, of <hi>Ruben,</hi> and <hi>Gad,</hi> and halfe the Tribe of <hi>Manaſſeh,</hi>
+               <note place="margin">1. Chro. 21.5. 2 Chro. 1.8.7, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 9. 2. Chron. 17.13, &amp;c. 2. Chr. 14 8. 2. Chron. 26.11, 12, 13, 14.</note> were foure hundred, forty thouſand, ſeuen hundred and three ſcore exerciſed in warres. The time would faile me, if I ſhould ſpeake largely of <hi>Dauid,</hi> of <hi>Salomon,</hi> of <hi>Iehoſophat,</hi> of <hi>Aſa,</hi> of <hi>Vzziah,</hi> whoſe care in this particular is plentifully declared in ho<g ref="char:EOLhyphen"/>ly Writ.</p>
+            <p>This practice was grounded vpon good reaſon, as we ſhall euince, thus:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label> Soueraigne power, Common-wealths, Lawes, and Armes had the ſame originall; the ſame end: which that you may vnderſtand, conceiue it thus. At firſt, euery father, or eldeſt of the family, gaue lawes to the reſt of that family, and tooke care for their ſafety. Afterwards, mankind multiply<g ref="char:EOLhyphen"/>ing into diuers houſholds,<note place="margin">Vicus of
+<list>
+                     <item>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> or</item>
+                     <item>v.a.</item>
+                  </list>
+               </note> joyned their Cotta<g ref="char:EOLhyphen"/>ges into one common field, and ſo made vp that, which we call a <hi>Village;</hi> diuers Villages joyned together,<note place="margin">Pagus of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>be<g ref="char:EOLhyphen"/>cauſe they dranke of our co<g ref="char:cmbAbbrStroke">̄</g>mon Spring.</hi> Vrbs, ab orbe. Ciuitas, ab eo quod multitudo coiuit.</note> grew into that which is called an <hi>Hun<g ref="char:EOLhyphen"/>dred:</hi> but as pride and emulation increaſed, with the increaſe of mankinde, they inuironed diuers of theſe Villages thus joyned; at firſt with bankes and ditches; afterwards with walls: which be<g ref="char:EOLhyphen"/>ing ſo compaſſed and fortified, were called <hi>Townes,</hi> and <hi>Citties.</hi>
+            </p>
+            <p>People thus conjoyned, that they might <hi>liue
+<pb n="7" facs="tcp:19037:8"/> honeſtly and peaceably</hi> together,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ariſt.</note> muſt be <hi>ordered</hi> amongſt themſelues. Hence came the inuention of <hi>Lawes,</hi> which are not only the rule, and leuill, and ſquare of the foundation, and building, but the very ſpirit, and ſinewes of any Common-wealth, and State, whereby it liues and moues. The end of theſe is the <hi>good of that Community,</hi>
+               <note place="margin">
+                  <hi>Salus populi ſu<g ref="char:EOLhyphen"/>prema lex.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Rom. 13.1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Rom. 13.4. Iam. 4.12.</note> where they are in force. The makers or preſer<g ref="char:EOLhyphen"/>uers of theſe <hi>Lawes,</hi> are called <hi>Kings, Gouernours, Magiſtrates, Higher powers:</hi> their end is the Com<g ref="char:EOLhyphen"/>mon welfare, <hi>he is the Miniſter of God for thy good:</hi> for which purpoſe the great <hi>Law-giuer, who is able to ſaue and deſtroy,</hi> hath by expreſſe rules in his Word, ordered the carriage of Rulers towards the people<note n="(a)" place="margin">Deut. 16.18, 19, 20, 21.</note> and of people towards their Ru<g ref="char:EOLhyphen"/>lers.<note n="(b)" place="margin">Rom. 13.1, to 9.</note> This gouernment, according to the di<g ref="char:EOLhyphen"/>uerſity of ſubjects, wherein it reſted, had diuers names: as it reſted in one perſon, it was called, A <hi>Monarchy:</hi> As it reſted in few of the chiefe, it was called. An <hi>Ariſtocraty:</hi> as it reſted in many, it was called a <hi>Democraty.</hi> The Common-wealth being thus ſettled with <hi>Lawes,</hi> and <hi>Gouernours,</hi> for the honeſt conuerſing of people amongſt themſelues; it was neceſſarie to prouide for their peace, and ſecuritie from the iniuries of others: for men na<g ref="char:EOLhyphen"/>turally are as <hi>Lyons, Leopards Wolues, Aſps,</hi>
+               <note place="margin">Iſa. 11.6. to 9. Rom. 8.7. 1. Pet. 2.11. Iames 4.1.</note> and <hi>Cocka<g ref="char:EOLhyphen"/>trices,</hi> by reaſon of thoſe inward <hi>luſts,</hi> which maintaine <hi>Enmity againſt God, fight againſt the ſoule,</hi> and raiſe <hi>warres and contentions</hi> amongſt men; which ſinfull diſpoſition, <hi>Satan,</hi> out of his ancient malice againſt mankind, acteth, and exciteth, <hi>inticing</hi> men to <hi>battell, that they may fall.</hi>
+               <note place="margin">1 King. 22.20.</note> This being the common danger of all men, euery man be<g ref="char:EOLhyphen"/>thought himſelfe of ſome courſe for preuention: and hence came the inuention of <hi>Armes,</hi> and <hi>Mi<g ref="char:EOLhyphen"/>litary diſcipline.</hi>
+            </p>
+            <pb n="8" facs="tcp:19037:9"/>
+            <p>Thus you ſee, we may truely ſay of theſe foure, <hi>Soueraigne power, Common-wealths, Lawes,</hi> and <hi>Armes,</hi> as it was ſaid of <hi>Hippocrates</hi> his Twinnes, <hi>They laugh and weepe together,</hi> they <hi>liue and dye toge<g ref="char:EOLhyphen"/>ther.</hi> For, as without Lawes the <hi>Soueraigne power,</hi> and <hi>Common-wealth</hi> cannot ſubſiſt, by reaſon of diſ<g ref="char:EOLhyphen"/>orders within; ſo without <hi>Armes,</hi> and the <hi>exer<g ref="char:EOLhyphen"/>ciſe</hi> of them, they cannot be ſafe, by reaſon of dangers without.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>2</label> The Common ſafety both of King and people is much aduanced by this courſe,<note place="margin">Pro. 14.28.</note> 
+               <hi>In the multitude of people is the honour of a King, and for want of people commeth the deſtruction of a Prince.</hi> But what ſafety is in a multitude of men without weapons, and skill to manage them? <hi>Counſell and ſtrength are for war.</hi>
+               <note place="margin">Iſa. 36.5.</note> But how ſhal Counſell and ſtrength be eſtabli<g ref="char:EOLhyphen"/>ſhed, without education and inſtruction to ſer<g ref="char:EOLhyphen"/>uice? or how ſhall men be inſtructed, without ſuch <hi>Military exerciſes?</hi> Add hereunto the diſaduan<g ref="char:EOLhyphen"/>tages that ſometimes happen in warres, partly, by reaſon of the ſuddenneſſe of the warre; as in the rebellion of <hi>Sheba</hi> the ſonne of <hi>Bichri,</hi>
+               <note place="margin">2. Sam. 20.4.</note> an Army was to be raiſed in three dayes warning; and in the caſe of <hi>Iabeſh Gilead,</hi> in the ſpace of foure or fiue dayes,<note place="margin">1. Sam. 11.8, 9.</note> 
+               <hi>Ioab raiſed three hundred thouſand men of Iſrael, and thirty thouſand of Iudah, to fight againſt the Am<g ref="char:EOLhyphen"/>monites;</hi> Partly, by reaſon of the inequality and oddes betwixt parties, as betweene <hi>Dauid</hi> and <hi>Goliah;</hi>
+               <note place="margin">1. Sam. 17.33.</note> The one a <hi>Boy,</hi> the other, a <hi>Man of warre from his youth:</hi> and betweene the <hi>Ammonites,</hi> and <hi>Iſrael,</hi>
+               <note place="margin">2. Sam. 10.9.</note> when <hi>the front of their battell was againſt the Iſ<g ref="char:EOLhyphen"/>raelites before &amp; behind.</hi> In ſuch ſtraights, how ſha<g ref="char:cmbAbbrStroke">̄</g>e<g ref="char:EOLhyphen"/>ful &amp; fearefull would the loſſe, and the ouerthrow of an Army and Kingdome be, if by frequent exer<g ref="char:EOLhyphen"/>ciſe, the Souldiers had not gained dexterity and
+<pb n="9" facs="tcp:19037:9"/> skill, to extricate themſelues out of ſuch difficul<g ref="char:EOLhyphen"/>ties? To conclude: Herein Kings imitate God, whoſe prouidence is ſeene, as well in defending, as in feeding his creatures. For amongſt them, ſome are fortified with hornes, ſome with hoofes, ſome with tuſhes, ſome with teeth; others that haue not theſe, haue burrowes; ſome haue ſtrength to helpe themſelues; others, that want that, haue ſwiftneſſe of feet to run away; thoſe that haue neither of theſe, haue dennes and ſecret pla<g ref="char:EOLhyphen"/>ces to hide themſelues in; and thoſe that haue none of theſe, goe by heards and multitudes: but vnto man, God hath giuen reaſon and vnderſtanding, which is in ſtead of all theſe, whereby he is able, not only to eſpie meanes of eſcape from dangers, but he can take from euery creature vpon earth, yea from within the bowels of the earth, what may ſerue for his vſe, and benefit.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>3</label> Religion and obedience to God, binde men to vſe all lawfull and poſſible meanes of ſafety. Not that God is tied to the meanes ſo, as not to worke without them (for hee gaue <hi>light</hi> to the world without the <hi>Sunne,</hi> and nouriſhed <hi>Moſes,</hi> and <hi>Eliah</hi> 40. dayes, without food) nor ſo, as alwayes to worke with them; only, wee are bound to vſe the meanes, with ſubmiſſion to his prouidence who, as a free Agent, workes with them, or without them, according to his good pleaſure. Excellent, to this purpoſe, was that reſolution of <hi>Ioab, Be ſtrong, and let vs be valiant for our people,</hi>
+               <note place="margin">2. Sam. 10.12.</note> 
+               <hi>and for the Citties of our God, and let the Lord doe that which is good in his eyes.</hi>
+            </p>
+            <p>For neither Gods <hi>purpoſe,</hi> nor his <hi>power,</hi> nor his <hi>promiſe</hi> ſecures any man in the neglect of meanes.</p>
+            <p n="1">1. Not his <hi>purpoſe;</hi> for in the greateſt matter,
+<pb n="10" facs="tcp:19037:10"/> that concernes man,<note place="margin">2. Tim. 2.19. 2. Pet. 1.10.</note> though <hi>The foundation of God remaineth ſure,</hi> in himſelfe, yet men muſt <hi>giue all diligence to make their calling and election ſure</hi> to themſelues.</p>
+            <p n="2">
+               <note place="margin">Ioſh. 5.12.</note>2. Nor his <hi>power;</hi> he could feed <hi>Iſrael</hi> in <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> as hee had done in the wilderneſſe: but <hi>Manna</hi> ceaſed, when they came to a land, that would yeeld corne: vpon mens ordinary labours, at this day hee can feed men,<note place="margin">Mat. 6.26, 28.</note> as <hi>hee clothed Lillies, which neither ſowe, nor reape, nor carry into their barnes;</hi> but it is his will, that man ſhould <hi>labour with his hands the thing that is good,</hi>
+               <note place="margin">Eph. 4.28.</note> if he would haue where<g ref="char:EOLhyphen"/>with to <hi>feed himſelfe, or giue to others without theft.</hi>
+            </p>
+            <p n="3">
+               <note place="margin">Iudg. 6.14. Iudg 7.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 8. Mat. 4.7, 8.</note>3. Not his <hi>promiſe; Gideon</hi> had a promiſe of vi<g ref="char:EOLhyphen"/>ctory, yet he vſed meanes. Our Lord Chriſt had a promiſe of protection, yet hee would not caſt himſelfe downe from the pinnacle. <hi>Paul</hi> had a promiſe of ſafety,<note place="margin">Act. 27.22.31.</note> yet he ſaith, <hi>Except theſe abide in the ſhip, we cannot be ſafe.</hi>
+            </p>
+            <p>Wee conclude then, that ſince <hi>Soueraigne power, Common-wealths, Lawes,</hi> and <hi>Armes,</hi> had the ſame originall, the ſame end; and ſince the common ſafety of King and people is procured by <hi>Militarie exerciſes;</hi> and ſince <hi>Religion,</hi> and obe<g ref="char:EOLhyphen"/>dience to God binds all men to vſe all lawfull, and poſſible meanes for their owne ſafety, and good; we conclude, that it is a care well beſeeming Kings to prouide, that their ſubjects may, by ſuch meanes, be trained vp to warres. And ſo we haue, as briefly as we could, diſpatched the Doctrinall part: we now come to application wherein, af<g ref="char:EOLhyphen"/>ter we haue laid downe ſome conſectaries, which ſhall be clearely deduced from the Text, we ſhall endeuour to ſpeake to the preſent occaſion.<note place="margin">1 Vſe, or conſectary</note>
+            </p>
+            <p n="1">1. Vſe or conſectary is vpon this ground, to
+<pb n="11" facs="tcp:19037:10"/> iuſtifie <hi>warres</hi> lawfully vndertaken, now in the times of the <hi>Goſpell,</hi> againſt the <hi>Manichees,</hi> and <hi>Marcionites</hi> of old, with the <hi>Anabaptiſts,</hi> and <hi>Fami<g ref="char:EOLhyphen"/>liſts</hi> of latter times: for how can it be ſaid, that the care of preparation for warrs beſeemes Kings, if warres themſelues be vnlawfull? or how ſhall that be recorded to <hi>Dauids</hi> praiſe, which be<g ref="char:EOLhyphen"/>ſeemes not other Kings?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiect. </seg>
+               </label> But the difference of times alters the caſe. That might be lawfull in <hi>Dauids</hi> time, which is vnlaw<g ref="char:EOLhyphen"/>full now. For, of theſe times of the Goſpell, its ſaid: <hi>They ſhall breake their ſwords into Mattockes,</hi>
+               <note place="margin">Iſa. 2.4.</note> 
+               <hi>their ſpeares into fithes: Nation ſhall not lift vp a ſword againſt Nation, neither ſhall they learne to fight any more.</hi>
+            </p>
+            <p>For Anſwere of this, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> we muſt oppoſe to it ano<g ref="char:EOLhyphen"/>ther text, where the <hi>Lord</hi> calls vpon the people to <hi>breake their plow-ſhares into ſwords,</hi>
+               <note place="margin">Ioel 3.10.</note> 
+               <hi>and their fithes in<g ref="char:EOLhyphen"/>to ſpeares.</hi> That it may appeare there is no contradi<g ref="char:EOLhyphen"/>ction in the Spirit ſpeaking by <hi>Iſay,</hi> to it ſelfe ſpeaking by <hi>Ioel,</hi> we muſt diſtinguiſh betweene the purpoſe, and intent of <hi>Chriſt</hi> in comming in<g ref="char:EOLhyphen"/>to the world, and in publiſhing the Goſpell, whereat <hi>Iſay</hi> aimeth, and the ſucceſſe, or euent, which was accidentall, in reſpect of mans malice, which <hi>Ioel</hi> intendeth. Reſpectiuely to the firſt, <hi>Chriſt</hi> ſaid to <hi>Peter, Put vp thy ſword:</hi>
+               <note place="margin">Mat. 26.51, 52</note> 
+               <hi>for hee that ſtrikes with the ſword, ſhall periſh with the ſword.</hi> As if he had ſaid, <hi>I came not to ſend the ſword, but peace.</hi> Re<g ref="char:EOLhyphen"/>pectiuely to the ſecond, he ſaith to his Diſciples, <hi>He that hath no ſword, let him ſell his coate,</hi>
+               <note place="margin">Luke. 21.36.</note> 
+               <hi>and buy him a ſword.</hi> As if hee had ſaid, My comming ſends not peace, but a ſword. So that, though the end of <hi>Chriſt</hi> his comming was, to <hi>reconcile things in heauen, and things on earth,</hi> which end he now attaineth be<g ref="char:EOLhyphen"/>tweene <hi>God</hi> &amp; vs, in our Iuſtification, &amp; will acco<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pliſh
+<pb n="12" facs="tcp:19037:11"/> betweene man and man in the <hi>day of Redemp<g ref="char:EOLhyphen"/>tion,</hi> yet ſo long as <hi>Satan workes in the children of diſ<g ref="char:EOLhyphen"/>obedience,</hi> and ſo long as any remnant of ſinne is in the heart of any, there will be a neceſſity, and law<g ref="char:EOLhyphen"/>fulneſſe of war, and of this care to prepare for it.</p>
+            <p n="2">
+               <note place="margin">2 Vſe or Con<g ref="char:EOLhyphen"/>ſectary. 2. Theſ. 2.</note>2. Vſe or Conſectary, Is this care well beſeeming Kings, as that which belongs to them by right? Then it ill beſeemes that <hi>Man of ſinne</hi> to vſurpe vpon this right of Kings. God committed the Ma<g ref="char:EOLhyphen"/>giſteriall power of appointing the times of ſound<g ref="char:EOLhyphen"/>ing the <hi>ſiluer Trumpets,</hi>
+               <note place="margin">Numb. 10.</note> vnto <hi>Moſes:</hi> But the miniſte<g ref="char:EOLhyphen"/>rial power of ſounding the<g ref="char:cmbAbbrStroke">̄</g>, vpon co<g ref="char:cmbAbbrStroke">̄</g>mand to <hi>Aaron.</hi> See the pride of this Vſurper, who will ſnatch the <hi>Trumpets</hi> out of <hi>Moſes</hi> hands, and not the <hi>Trum<g ref="char:EOLhyphen"/>pets</hi> only, but the <hi>ſwords</hi> alſo; nor the <hi>ſwords</hi> only, but the <hi>Crownes</hi> and <hi>Scepters</hi> alſo. I doubt not, that in due time, God will vnite the <hi>ten hornes</hi> againſt his pride, who exalts himſelfe aboue all that is called God, 1. <hi>Theſ.</hi> 2.</p>
+            <p n="3">3. Vſe. It remaineth, that a word or two of in<g ref="char:EOLhyphen"/>couragement,<note place="margin">3 Vſe. Inc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urage<g ref="char:EOLhyphen"/>ments and Cautions.</note> and caution be added for the <hi>Iuſti<g ref="char:EOLhyphen"/>fication,</hi> and <hi>Direction</hi> of your Noble deſignes, in theſe <hi>Military exerciſes,</hi> which are of ſo great con<g ref="char:EOLhyphen"/>ſequence for the Common good, as hath beene formerly declared. If it be a courſe vvell-beſee<g ref="char:EOLhyphen"/>ming Kings to prouide, that by theſe meanes, their ſubjects be trained vp, and fitted to vvarres, certainely it vvell becomes ſubjects to offer them<g ref="char:EOLhyphen"/>ſelues willingly to ſuch exerciſes.<note place="margin">
+                  <p n="1">1. Incourage<g ref="char:EOLhyphen"/>ments to 2. ſorts.</p>
+                  <p n="1">1. Such as are already me<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>bers of this Society.</p>
+               </note> Thoſe to whom I am to addreſſe this part of my ſpeech, are of two ſorts. 1. Such as are already exercized members of this ſociety. 2. Such as may hereafter be added thereunto.</p>
+            <p>For the former: I need not ſeeke farre for in<g ref="char:EOLhyphen"/>couragements: <hi>your workes praiſe you;</hi> and the
+<pb n="13" facs="tcp:19037:11"/> aboundant fruit,<note place="margin">Who are in<g ref="char:EOLhyphen"/>couraged fro<g ref="char:cmbAbbrStroke">̄</g> former ſuc<g ref="char:EOLhyphen"/>ceſſe. In reſpect. Iudges 5.8. 1 Sam. 13.18, 19. 1. Of Armes.</note> and <hi>ſucceſſe</hi> of them may incou<g ref="char:EOLhyphen"/>rage you. It was ill with <hi>Iſrael,</hi> when <hi>there was not a ſhield or a ſpeare to be found amongſt forty thouſand in Iſrael.</hi> There was want of <hi>Armes.</hi> And no leſſe miſerable was their eſtate, when <hi>there was no Smith in the Land.</hi> There was want of <hi>Armourers.</hi> Little better was the condition of this Land, when theſe <hi>exerciſes</hi> firſt began: for, either there were no <hi>Armes,</hi> or, not ſo many, and thoſe few that were, not ſo ſeruiceable as theſe, nor made after the moderne faſhion.<note place="margin">2. Of Armou<g ref="char:EOLhyphen"/>rers.</note> The like defect here was of <hi>Ar<g ref="char:EOLhyphen"/>mourers,</hi> till you ſet them on worke, whereby their number and skill hath greatly increaſed, not only in the Citty, but throughout the King<g ref="char:EOLhyphen"/>dome alſo. But what are <hi>Armes</hi> without skill to manage them? It was much to the praiſe of <hi>Mar<g ref="char:EOLhyphen"/>tiall Diſcipline</hi> in <hi>Iſrael,</hi> that <hi>One hundred and twenty thouſand, euery one of them able to leade an Army,</hi> or at leaſt to <hi>keepe rancke,</hi>
+               <note place="margin">1. Chro. 12.38.</note> 
+               <hi>came to anoint Dauid King in Hebron.</hi> According to the proportion of your number, and time, the like may be ſaid of your Society: That, whereas before the happy begin<g ref="char:EOLhyphen"/>ning of this Exercize, ſcarce one in the Citty knew the vſe of <hi>Armes,</hi> and what did belong to <hi>Martiall Diſcipline;</hi> now, many educated in this Schoole, are able to exerciſe a Company: in ſo much that all the Officers of the trained Bands of the Citty, from the greateſt to the leaſt, are ta<g ref="char:EOLhyphen"/>ken hence; and that which addes luſtre to all that hath beene ſaid, is, 1. The conſideration of the perſons. 2. Of the time. 3. Of the place. 4.<note place="margin">Amplified 4. wayes. 1. By the per<g ref="char:EOLhyphen"/>ſons. <hi>Ex colluuie omnium genti<g ref="char:EOLhyphen"/>um.</hi>
+               </note> The manner of ingaging your ſelues in ſo worthy a proiect.</p>
+            <p n="1">1. The <hi>perſons,</hi> a Company not like <hi>Hannibals</hi> Army, gathered of riff-raff, the reffuſe, and dregs
+<pb n="14" facs="tcp:19037:12"/> of the people, but a Company of worthy <hi>Citti<g ref="char:EOLhyphen"/>zens,</hi> men whoſe perſons, places, parts, challenge reſpect, and reuerence.</p>
+            <p n="2">
+               <note place="margin">2. The time.</note>2. The circumſtance of time] In a time of <hi>peace,</hi> when the fooliſh inhabitants of <hi>Laiſh</hi> would haue beene without feare,<note place="margin">Iudg. 18.</note> yea in a time of <hi>feares,</hi> (as the caſe now ſtands) wherein men ſhould be like Ants, prouiding for that Winter which they fore-ſee not, like <hi>Mice</hi> running away from that houſe, which they feare will fall in ſuch times men ſhould be like the <hi>Romanes Triarij,</hi> that would chuſe to dye in the ſight, rather then to preſerue their liues by flight: not like thoſe Romane <hi>Murci,</hi> who choſe rather to cut off their thumbs, then to handle their ſwords.</p>
+            <p n="3">
+               <note place="margin">3. The place. 1. Generally the Land.</note>3. The circumſtance of place] In this plenti<g ref="char:EOLhyphen"/>full Land: for we ſee that vſually like vnto ſeeds and plants, ſo are the liues of men made conform<g ref="char:EOLhyphen"/>able to the Regions where they abide. Thus <hi>So<g ref="char:EOLhyphen"/>dom,</hi> which was <hi>like the Garden of Eden,</hi> fruitfull and delightfull,<note place="margin">Ezek. 16.</note> was addicted to <hi>pride, idleneſſe, fulneſſe of bread, and contempt of the poore.</hi> Hiſtories tell vs how the delights of <hi>Capua</hi> did weaken and eneruate <hi>Hannibal,</hi> and all his Army, whom the rough <hi>Alpes,</hi> and freezing ſnow had formerly made vnconquerable. Therefore <hi>Caeſar</hi> ſpeakes it to the praiſe of his Souldiers, that no delights diſabled them to ſeruice in the warre. 2. In this famous Citty] which is to England,<note place="margin">Mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ites ſuos e<g ref="char:EOLhyphen"/>tiam <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nguenta<g ref="char:EOLhyphen"/>tos, bene pugnare dicebat. Suct. in Jul. cap. <hi>67. 2. particular<g ref="char:EOLhyphen"/>ly this Citty.</hi>
+               </note> as <hi>Ieruſalem</hi> was to <hi>Iudea,</hi> the <hi>Metropolis</hi> of the Land, where, bv your actions, are examples to other places; and for this particular, I may ſay as <hi>Paul</hi> ſpeakes to the <hi>Romanes, Your zeale hath prouoked many:</hi> as may be ſeene in Couentry, Cheſter, Briſtow, Nor<g ref="char:EOLhyphen"/>wich, beſides other places, who not only haue yours,
+<pb n="15" facs="tcp:19037:12"/> raiſed vp like Companies, in imitation of yours, but alſo haue beene guided therein by ſome of your followers, and inſtructed by ſome of your Schollers.</p>
+            <p n="4">4. <hi>The manner]</hi>
+               <note place="margin">4 The man<g ref="char:EOLhyphen"/>ner.</note> That it is done, <hi>not by con<g ref="char:EOLhyphen"/>ſtraint, but of a ready mind.</hi> Tis true: euery Fa<g ref="char:EOLhyphen"/>mily is commanded <hi>the vſe of Bow</hi> and Ar<g ref="char:EOLhyphen"/>rowes, vnder a penalty:<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> and maſters are bound to teach children, and ſeruants, from ſeuen to ſeuenteene therein. Heere Maſters are inſtructed, not in the vſe of the Bow one<g ref="char:EOLhyphen"/>ly, but in all weapons, poſtures, actions neceſſary or vſefull in warre, and not for feare of a penalty, but for loue of their Country. I conclude with the ſpeech of <hi>Debo<g ref="char:EOLhyphen"/>rah, My heart is towards the Gouernours of Iſrael,</hi>
+               <note place="margin">Iudges 5.</note> 
+               <hi>that offred themſelues willingly, amongſt the people: bleſſe you the Lord.</hi>
+            </p>
+            <p n="2">2. For others that are to come in;<note place="margin">2. Sort incou<g ref="char:EOLhyphen"/>raged, are ſuch as may hereafter be added to this ſociety. Of 2. ſorts. 1 Incouragers.</note> thoſe are of two ſortes. 1. Such as ſhould incourage. 2. Such as ſhould exerciſe. For the firſt, I would haue directed my ſpeech to the <hi>Right Ho<g ref="char:EOLhyphen"/>nourable, the Lord Maior,</hi> in whoſe abſence, let me ſpeake but a word to the <hi>Senatours,</hi> his brethren, ſo many as are preſent. That which is in the Text commanded in <hi>Dauid</hi> is practized by our <hi>dread Soueraigne,</hi> whoſe Royall pleaſure for the ordering, &amp; incouraging of this Company, hath beene plentifully and openly declared. In conformity to which paterne, would it not well beſeeme his <hi>Maieſties</hi> Lieutenant, and Deputy in this Citty, ſometimes to viſit this <hi>Schoole,</hi> to ob<g ref="char:EOLhyphen"/>ſerue their proficiencie, and at ſuch ſolemne mee<g ref="char:EOLhyphen"/>tings, to honour them with his preſence, yea, and if need ſhould require it, to allow out
+<pb n="16" facs="tcp:19037:13"/> of the Chamber, the Treaſury of the Citty, ſomething towards their incouragement and maintenance? This motion may be thought the more reaſonable, if you reflect vpon times paſt, wherein, for want of able men amongſt your ſelues, the Citty was conſtrained to en<g ref="char:EOLhyphen"/>tertaine Strangers, vpon ſuch occaſions, to their great charge; beſides the danger of ha<g ref="char:EOLhyphen"/>uing Strangers to bee Officers in a Citty. It is reported of <hi>Switzerland,</hi> that whereas in other places, ſome are for Armes, ſome Artizans, ſome Labourers, there, all are Souldiers. Would you know whence it came? From the liberality of the Gouernment, in propounding rewards in publicke, for ſuch as could exerciſe, and dex<g ref="char:EOLhyphen"/>terouſly handle the Harquebuz, or Caliuer: yea, there was a price, or reward appointed for the children that could draw the <hi>Bow.</hi> A worthy paterne: but I muſt haſten.</p>
+            <p n="2">
+               <note place="margin">2. Thoſe that ſhould exer<g ref="char:EOLhyphen"/>ciſe.</note>2. For thoſe that ſhould exerciſe] If ſuch be the publicke good that redounds to <hi>King</hi> and people by theſe deſignes, as hath beene ſhew<g ref="char:EOLhyphen"/>ed, it ſhould incourage many to come in, and thoſe who haue entred themſelues into this Society, to apply themſelues to thoſe oppor<g ref="char:EOLhyphen"/>tunities, which they haue, by times appoin<g ref="char:EOLhyphen"/>ted for exerciſe in the Garden: and here, what ſhall I ſay to quicken you?</p>
+            <p n="1">1. The neceſſities of other Churches] Were there no danger at home, yet the diſtreſſes of our brethren abroad ſhould quicken vs to the vſe of all meanes,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Heſiod.</note> whereby wee may bee inabled to ſuccour them. If a neighbours Oxe, or Horſe be in a ditch, wee will euen runne
+<pb n="17" facs="tcp:19037:13"/> to helpe it out, ſaith our Sauiour: much more, if his houſe be on fire; moſt of all, if the danger be of the loſſe of their Country, of Religion, Families, liues and all.<note place="margin">Iudges 5.</note> 
+               <hi>Curſe ye Me<g ref="char:EOLhyphen"/>roz, ſaith the Angell,</hi> when in ſuch a caſe, <hi>ſhee comes not out to helpe the Lord.</hi>
+            </p>
+            <p n="2">2. Our owne dangers] What though for the preſent <hi>wee</hi> ſeeme <hi>to dwell ſafely,</hi>
+               <note place="margin">1. King. 4.25.</note> 
+               <hi>euery man vnder his Vine, and vnder his Fig tree?</hi> So long as our ſinnes, our crying ſinnes remaine, ſo long as the abominations that prouoke <hi>God,</hi> are not taken from the middeſt of vs, we can haue no ſecuritie, no aſſured peace.</p>
+            <p n="3">3. But ſuppoſe all clouds were diſperſed, none to be ſeene in the firmament of all the Churches, yet the laudableneſſe of ſuch Mar<g ref="char:EOLhyphen"/>tiall exerciſes ſhould perſwade men to the loue, and vſe of them. Former preſidents iuſtifie this courſe, in <hi>Ionathans</hi> ſhooting <hi>for ſport,</hi>
+               <note place="margin">1. Sam. 20.20.</note> that hee might bee thereby fitted to warre. And queſtionleſſe, the <hi>Beniamites</hi> attained that dex<g ref="char:EOLhyphen"/>terity in caſting ſtones out of a ſling, at an haires breadth, by frequent exerciſe for re<g ref="char:EOLhyphen"/>creation.</p>
+            <p>The ancient <hi>Gaules</hi> are ſaid to be the <hi>moſt warlike,</hi> and <hi>valiant of all Nations.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> per <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Iuli<g ref="char:EOLhyphen"/>an. in Miſo<g ref="char:EOLhyphen"/>pog. Caeſar Commen. lib. <hi>5.</hi> &amp; <hi>7.</hi> Tit. Liv. l. <hi>31.</hi> Decad. <hi>6.</hi>
+               </note> But how became they ſuch? By continuall exerciſe &amp; vſe of <hi>Armes:</hi> for it was their cuſtome to come armed to their Councels. Their applauſe of an Oration was ſignified by clattering with their <hi>Armes.</hi> The oath they tooke was vpon their <hi>Armes.</hi> The <hi>Germanes</hi> alſo were wont to goe armed about their daily negotiations, and came in the ſame manner to their banquets. Thus the moſt
+<pb n="18" facs="tcp:19037:14"/> warlike Nations haue accounted it a maine policie, to be very frequent in the vſe of <hi>Armes.</hi> And in Religious reſpects, ſince euery man will haue recreations: if that bee beſt, which is freeſt from ſinne; that beſt, that moſt ſtrengthneth a man; that which inables a man moſt, to bee of vſe for the publicke good, bee beſt; then abandon your <hi>carding, dicing, chambring, wantonneſſe, dalliance,</hi> ſcurrillous diſ<g ref="char:EOLhyphen"/>courſing, and vaine rauelling out of time, to frequent thoſe exerciſes, which are ſpeciall helpes fitting you to be ſeruiceable, and in<g ref="char:EOLhyphen"/>ſtruments of publicke welfare: only take in the cautions, with the incouragements, which are theſe.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Caution. </seg>1</label> 1. <hi>Caution</hi>] Haue reſpect to your particu<g ref="char:EOLhyphen"/>lar callings. You haue heard how Gods wiſ<g ref="char:EOLhyphen"/>dome declareth it ſelfe in feeding, as well as in defending his people: let it be ſo with you. If any man vnder pretence of this exerciſe, ſhall waſte his time and meanes, to the apparant dam<g ref="char:EOLhyphen"/>mage, and vndoing of his family; ſuch an one will bring a ſcandall, an ill report vpon this worthy deſigne. He that would be a builder, not a deſtroyer of the Citty, muſt be carefull to imitate thoſe <hi>builders</hi> vnder <hi>Nehemiah,</hi> who <hi>held their ſword in one hand,</hi> and <hi>their trowell in the other.</hi> So minde the exerciſes in the field, that you forget not neceſſary buſineſſe in your ſhop.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Caution </seg>2</label> 2. <hi>Caution</hi>] Preſerue <hi>vnity in the bond of peace amongſt your ſelues.</hi> This will be your ſafety and the ſtrength of your Cittie. Thus wee ſhall bee able to ſay of you, as <hi>Ageſilaus</hi> anſwered one who asked him, <hi>Why Sparta had no walls?</hi> Said
+<pb n="19" facs="tcp:19037:14"/> he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ointing to the Cittizens) <hi>Behold Spartaes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>artaes</hi> Cittizens were <hi>Spartaes</hi> walls,<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Spartae mu<g ref="char:EOLhyphen"/>ros.</note> by <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their concord, and vnity amongſt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo will it be with this Cittie, you w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of walls to London, if it ſhould wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ping vnity amongſt your ſelues.</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Caution. </seg>3</label> 3. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et euery one ſeeke <hi>the publicke good.</hi> St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enerate ſpirits, as are altoge<g ref="char:EOLhyphen"/>ther inte<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r owne priuate and par<g ref="char:EOLhyphen"/>ticular conc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vnfit for imployments of ſuch publi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce as this is.<note place="margin">Da mihi Scu<g ref="char:EOLhyphen"/>tum, tu vero tibi cau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onum eme in quâ vi<g ref="char:EOLhyphen"/>uas. Epamin.</note> 
+               <hi>God</hi> ſel<g ref="char:EOLhyphen"/>dome honours <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſeruice, nor him<g ref="char:EOLhyphen"/>ſelfe by their skill <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or wealth, who make themſelues <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in what they doe.</p>
+            <p n="4">
+               <label type="milestone">
+                  <seg type="milestoneunit">Caution. </seg>4</label> 4. <hi>Caution</hi>] Beware <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onfidence in your <hi>Armes,</hi> skill, pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> For though your Martiall prouiſion were <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>feſt, like <hi>Zenophons,</hi> of whom it is ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an <hi>Ar<g ref="char:EOLhyphen"/>golican</hi> Target, an <hi>Athenian</hi> B<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>-plate, and a <hi>Boetian</hi> Head-peece; though your men were, for ſtature like the <hi>Anakims,</hi> for multitude, like the <hi>Aramites,</hi> for dexterity, like the <hi>Beniamites,</hi> for ſucceſſe, like <hi>Saul,</hi> and <hi>Ionathan,</hi> of whom it is ſaid,<note place="margin">2. Sam. 1.21.</note> that <hi>the Bow of Ionathan neuer returned backe; neither did the ſword of Saul returne emptie from the blood of the ſlaine, and from the fall of the mightie,</hi> yet carnall confidence, ſelfe confidence will betray you, vndoe you, as it hath ruined many States before you. They of <hi>Ierico,</hi> truſted in their walls: but how ſoone, and by how deſpicable meanes did God lay them flat? The <hi>Philiſtims</hi> truſted in <hi>Goliah,</hi> and he in his ſtrength:<note place="margin">1. Sam. 17.45, &amp;c.</note> but how ſoone is his head cut off with his owne
+<pb n="20" facs="tcp:19037:15"/> ſword? <hi>Men riſe vp earely,</hi> but <hi>God builds the Cittie. The horſe and chariot is prepared, but victorie is from the Lord.</hi> It is <hi>Solomons</hi> obſeruation, and wee may conclude with it,<note place="margin">Eccle. 9.11.</note> 
+               <hi>The race is not to the ſwift, nor the battell to the ſtrong.</hi>
+            </p>
+            <p n="5">
+               <label type="milestone">
+                  <seg type="milestoneunit">Caution. </seg>5</label> 5. <hi>Caution</hi>] Labour for ſuch preparations as will certainely intereſt you in a bleſſing. What are thoſe? Something muſt be done for the qualifying of your perſons; ſomething for furniture, and prouiſion of Armour; ſome<g ref="char:EOLhyphen"/>thing for the vſe and managing of that Ar<g ref="char:EOLhyphen"/>mour. Of theſe ſeuerally.</p>
+            <p n="1">1. For the qualifying of your perſons] This in generall know,<note place="margin">Pſal. 39.5. Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1.13.</note> that as <hi>holineſſe becomes Gods Houſe for e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</hi> becauſe <hi>Hee walkes in the middest of the golden Candleſtickes;</hi> ſo, holineſſe becomes the Lords Campe for euer; becauſe <hi>hee walkes in the middeſt of the Campe:</hi>
+               <note place="margin">Deut. 23.12, 13 14.</note> 
+               <hi>and if hee ſee any vncleane thing in it, will turne away from it.</hi> Sinne not onely cauſeth warres <hi>(They choſe new gods, then was warre in their gates.)</hi> but alſo ruine,<note place="margin">Ioſh. 7.10.</note> and deſolation. <hi>Iſrael could not ſtand before the enemy, becauſe there was an execrable thing in the Campe.</hi> Therefore it is <hi>Gods</hi> charge to his peo<g ref="char:EOLhyphen"/>ple:<note place="margin">Deut. 23.9.</note> 
+               <hi>When thou goeſt out with the Hoaſt againſt thine enemies, keepe thee from all wickedneſſe.</hi> So may I ſay, When thou goeſt to prepare and fit thy ſelfe to fight (as you doe in your <hi>Martiall exerciſes</hi>) keepe thee from all wickedneſſe. For, what will it auaile you, if you could bee Conquerours of men, whilſt you remaine captiues to <hi>Satan,</hi> ſlaues to your owne luſts? But how can you hope to preuaile againſt men, when <hi>God</hi> himſelfe is become your ene<g ref="char:EOLhyphen"/>my?
+<pb n="21" facs="tcp:19037:15"/> This is that which hath brought ſo much miſery vpon your brethren, and threatens our deſtruction, euen the ſinne of Rulers, and ſubjects, Miniſters, and people, Captaines and Souldiers; and yet the Lord may re<g ref="char:EOLhyphen"/>new his complaint, <hi>No man ſpeakes aright,</hi>
+               <note place="margin">Ier. 8.12.</note> 
+               <hi>no man ſaith, What haue I done?</hi> Whilſt our ſins continue, flatter not your ſelues, neither <hi>truſt in lying words, ſaying,</hi>
+               <note place="margin">Ier. 7.</note> 
+               <hi>The Temple of the Lord</hi> (much leſſe the <hi>Artillery Garden, &amp;c.) for your ſakes Sion ſhall be layd waſte,</hi> Ieremy 7. and the Lord will doe vnto vs, as hee hath done to our brethren round about vs. Where<g ref="char:EOLhyphen"/>fore (Beloued in the Lord) as you deſire the continuance of the <hi>Goſpell,</hi> and of our peace; as you tender the welfare of Church and Common-wealth; as you affect the ſafety of your ſelues, and families; ſearch out, purge out the ſinnes that prouoke <hi>God</hi> to wrath, from your families, from your ſelues, <hi>pro<g ref="char:EOLhyphen"/>faneneſſe, couetouſneſſe, pride, hypocriſie, cor<g ref="char:EOLhyphen"/>rupt ſelfe-loue, ſecuritie, luke-warmeneſſe,</hi> and whatſoeuer elſe in your perſons, places, callings, companies, recreations, is con<g ref="char:EOLhyphen"/>trary to <hi>Gods</hi> reuealed will, and in ſtead of thoſe, conſecrate your families,<note place="margin">Deut. 20. Rom. 12.</note> your ſelues to <hi>God;</hi> bee more <hi>holy, heauenly-minded, hum<g ref="char:EOLhyphen"/>ble, vpright, zealous, fruitfull, watchfull</hi> in all your wayes: ſo ſhall tenne of you bee able to chaſe away a hundred, and an hundred a thouſand, and a thouſand ten thouſand.</p>
+            <p n="2">2. For furniture and prouiſion of Armes]. The <hi>Apoſtle</hi> commends ſix Pieces to you, out of Gods Armory: Chriſts Souldiers may not want any one of them.</p>
+            <p n="1">
+               <pb n="22" facs="tcp:19037:16"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <hi>Truth]</hi> The firſt is that which was ingra<g ref="char:EOLhyphen"/>uen in a Saphire ſtone, and hanged about the necke of the <hi>Egyptian</hi> Iudges in a collar. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Truth.</hi> This is the ground of all <hi>conſtancie;</hi> and therefore the <hi>Hebrewes</hi> by one word expreſſe both.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> This the <hi>Apoſtle</hi> calleth a <hi>Girdle,</hi> and it farre excels thoſe ſtudded bells, wherein Soul<g ref="char:EOLhyphen"/>diers pride themſelues, both in comlineſſe to a<g ref="char:EOLhyphen"/>dorne, and in ſufficiencie to ſtrengthen a Chriſtian Souldier againſt all aſſaults of <hi>Satan,</hi> and diſcou<g ref="char:EOLhyphen"/>ragements in the world.</p>
+            <p n="2">
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. <hi>Righteouſneſſe, a Breſt-plate</hi>] The ſecond is that, whereunto we laboured to perſwade you in the firſt direction, for the qualifying of your per<g ref="char:EOLhyphen"/>ſons,<note place="margin">1. Iohn. 3.7. 2. Cor. 1.12. Acts 11.23.</note> 
+               <hi>Righteouſneſſe of conuerſation,</hi> which conſiſts in a pure or purified conſcience for the time paſt, and in a <hi>reſolution</hi> of proceeding in a righteous courſe,<note place="margin">Reu. 1.6.</note> for the time to come. We are <hi>Prieſts vn<g ref="char:EOLhyphen"/>to God our Father:</hi> let vs preſent our ſelues before him, and the Congregation of his <hi>Iſrael,</hi> with this <hi>Breſt-plate,</hi>
+               <note place="margin">Exod. 23.</note> wherein is the true <hi>Vrim</hi> and <hi>Thum<g ref="char:EOLhyphen"/>mim,</hi> and wherewith the ſoule is more gloriouſ<g ref="char:EOLhyphen"/>ly adorned, then <hi>Salomon</hi> was <hi>in all his Royalty:</hi> yea, the Soule is not only beautified, but alſo fortified by it,<note place="margin">Iſa. 38. 2. Cor. 1.12.</note> as you ſee in <hi>Hezekias</hi> caſe, againſt <hi>the feare of death;</hi> and in Pauls caſe, againſt the <hi>ſmiting of the tongue.</hi>
+            </p>
+            <p>
+               <note place="margin">3. The prepa<g ref="char:EOLhyphen"/>ration of the Goſpell of peace, the leg-harneſſe. 1. Cor. 3.21, 22.</note>The <hi>third,</hi> is the piece of furniture, which the <hi>Goſpell</hi> doth helpe vs vnto, by reuealing to vs, 1. That <hi>God</hi> is reconciled to vs, in Chriſt. 2. That euery thing that can befall vs, is made for vs, yea, <hi>death</hi> it ſelfe; and all tribulations are for our good: This is in ſtead of <hi>Greaues, or Leg-harneſſe,</hi> where<g ref="char:EOLhyphen"/>by we are inabled to paſſe thorow the rougheſt
+<pb n="23" facs="tcp:19037:16"/> wayes to heauen, without diſcouragement, yea, in a ſpirituall ſence, to <hi>treade vpon the Adder, and the Baſiliske,</hi> without hurt. <hi>Chriſt</hi> ſeeing his Church walking towards him thus ſhod, breakes forth into an admiration of her:<note place="margin">Cant. 5.1.</note> 
+               <hi>How beautifull is thy going with ſhooes, oh Virgin, daughter!</hi>
+            </p>
+            <p>The fourth is Faith,<note place="margin">4. Faith the Shield.</note> laying hold on <hi>Chriſt</hi> for <hi>Iuſtification,</hi> and on the reſt of <hi>Gods</hi> Word, and ſpeciall promiſes, for paſſing this preſent life. This is a <hi>Shield</hi> defending the ſoule, not only from foynes and blowes, but alſo from <hi>the fiery Darts of the Deuill.</hi> By this thoſe <hi>Worthies of the Lord ſub<g ref="char:EOLhyphen"/>dued Kingdomes, wrought righteouſneſſe, obtained the pro<g ref="char:EOLhyphen"/>miſes, ſtopped the mouthes of Lions, quenched the vio<g ref="char:EOLhyphen"/>lence of fire, eſcaped the edge of the ſword, of weake,</hi>
+               <note place="margin">Heb. 11.33, 34. 1. Ioh. 5.4.</note> 
+               <hi>were made ſtrong, waxed valiant in fight, turned to flight the Armies of the aliens.</hi> To conclude; <hi>It is the victory, whereby we ouercome the world.</hi>
+            </p>
+            <p>The fift is Hope, which ariſeth from Faith,<note place="margin">5. Hope an Helmet.</note> and is the expectation of good things to come, grounded vpon the promiſes. This like an <hi>Hel<g ref="char:EOLhyphen"/>met</hi> will ſtand the Chriſtian Souldier in much ſtead, which keepes off many blowes and wounds from him, which elſe, as a violent ſtroke on the head, would amaze him, if not quite caſt him to the around. Thus <hi>Steuen</hi> hauing his <hi>Helmet</hi> on,<note place="margin">Acts 7.</note> could with courage looke his enemies in the face, and lift vp his eyes to heauen, with an vndanted mind, in the midſt of a ſhowre of ſtones caſt at him. And bleſſed <hi>Paul reioyceth in tribulation,</hi>
+               <note place="margin">Rom. 5.3, 4.</note> 
+               <hi>vnder the hope of glory.</hi>
+            </p>
+            <p>The ſixt Peece,<note place="margin">6. The word a ſword.</note> is that whereby <hi>Gods</hi> mind is reuealed vnto vs, in ſuch things as concerne vs to know, as a mans mind is by his ſpeech, which is
+<pb n="24" facs="tcp:19037:17"/> therefore called <hi>the Word of God.</hi> This is contained in the Scriptures, and is called <hi>a Sword,</hi> becauſe of its ſingular vſe, both for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffence, and defence, as you may ſee in that ſingle combate of <hi>the Captaine of the Lords Army,</hi>
+               <note place="margin">Math. 4.</note> 
+               <hi>our Lord Ieſus Chriſt,</hi> with the Deuill. I may ſay of this, as <hi>Dauid</hi> ſaid of <hi>Goliahs</hi> ſword,<note place="margin">Sam.</note> Giue me that, <hi>there is none to that.</hi> A Chri<g ref="char:EOLhyphen"/>ſtian Souldier ſhould haue this ſword alwayes in readineſſe, not as ſwords are in moſt houſes and hands,<note place="margin">Sam.</note> hung vp by the walls, or kept ruſty in the ſcabberd: but it ſhould be like the ſword of <hi>Ioab,</hi> ready to drop out of its ſheath ſuddenly, and he ſhould vſe it againſt ſpirituall wickedneſſe, as <hi>Eliazer</hi> vſed his againſt the Philiſtims.<note place="margin">2. Sam 23 10.</note> The Text ſaith, He ſmote the <hi>Philiſtims, vntill his hands was weary, and husband claue vnto the ſword.</hi> One thing more muſt be added, and ſo Ile conclude.</p>
+            <p n="3">3. For the vſe and managing of this ſpirituall Armour] I will propound onely one thing to bee done, that is, <hi>Prayer,</hi> whereby <hi>Hezekiah</hi> clothed with ſacke-cloth, in ſtead of a Coat of maile, and hauing aſhes vpon hie head, in ſtead of an <hi>Helmet,</hi> and vſing prayers in ſtead of ſpeares, and ſwords and arrowes,<note place="margin">2. Chron. 32.9.10, Iſa. 37.15.36,</note> hee obtained the ſlaughter of <hi>one hundred foure-ſcore and fiue thouſand of the Aſſyrians in one night. Aſa</hi> by prayer, ſlew and put to flight an Army of <hi>tenne hundred thouſand,</hi>
+               <note place="margin">2. Chron 14.9. to 14.</note> 
+               <hi>and three hundred Chariots of Ethiopians.</hi>
+            </p>
+            <p>In Eccleſiaſticall Hiſtories wee read of an Ar<g ref="char:EOLhyphen"/>my of Chriſtians,<note place="margin">Euſeb. lib. <hi>5.</hi> Tertul. in Apol<g ref="char:EOLhyphen"/>log.</note> which was called <hi>Legio fulminans,</hi> becauſe by prayer they obtained, that God ſcatte<g ref="char:EOLhyphen"/>red their enemies with thundring and lightning, and refreſhed the Chriſtians with ſhowres from aboue.</p>
+            <pb n="25" facs="tcp:19037:17"/>
+            <p>Our owne times afford many inſtances to the ſame purpoſe, eſpecially, that <hi>Mirabilis annus,</hi> in 88. when the prayers of Gods people preuailed to raiſe the winds, which ſcattered that <hi>Inuincible Armado,</hi> whereof wee may ſay, as <hi>Moſes</hi> ſang of <hi>Pharaohs</hi> Hoaſt: <hi>The enemie ſaid, I will purſue, I will ouertake, I will deuide the ſpoile,</hi>
+               <note place="margin">Exod. 15.9, 10.</note> 
+               <hi>my luſt ſhall be ſatiſ<g ref="char:EOLhyphen"/>fied vpon them; I will drawe my ſword, my hand ſhall deſtroy them. Thou didſt blow with thy wind, the ſea couered them, they ſunke as Lead in the mighty waters.</hi> Prayer is to euery piece of ſpirituall Armour, the ſame, that exerciſe is to Armes, and weapons, that whereby Chriſtian Souldiers are fitted for ſer<g ref="char:EOLhyphen"/>uice. It holds alike true in both; the more exerciſe, the more skill; the more courage, the better ſuc<g ref="char:EOLhyphen"/>ceſſe. Wherefore be much in prayer, in publike, in priuate, in ſecret, be aſſiduous in this dutie, be fre<g ref="char:EOLhyphen"/>quent in eiuculations, that your houſes and hearts may be purified, that your fore-fellowſhip, cal<g ref="char:EOLhyphen"/>lings, recreations may be ſanctified; that by you and all your indeauours, God may be glorified, let it be your ambition to be ſo qualified, armed, and prepared to manage thoſe ſpiritual weapons with a prayer-full ſpirit, as men by <hi>long cuſtome exerciſed</hi> therein. What wil it auaile you to know the whole Diſcipline of <hi>warre?</hi> Doe not the heathen as much? There is more required in you then in other men, in reſpect of your <hi>Chriſtian</hi> profeſſion: for you haue vowed your ſelues to Chriſt in Baptiſme, to fight vnder his Banners, againſt the world, the fleſh, and the Deuill, and to continue his faithfull Souldiers to your liues end. Performe your vow now, and euer, in the ſight of this great Citty,
+<pb n="26" facs="tcp:19037:18"/> that euery one may ſay, Theſe are <hi>the Lords Wor<g ref="char:EOLhyphen"/>thies, Chriſtian Souldiers</hi> indeed. So ſhall you be va<g ref="char:EOLhyphen"/>liant in fight, victorious in battell, and in theſe <hi>Militarie Exerciſes,</hi> the Head and Glory of all the <hi>Artillery Gardens</hi> in the whole World.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:19037:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
